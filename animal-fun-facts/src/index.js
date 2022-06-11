@@ -3,11 +3,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles.css';
 import Ocean from './images/ocean.jpg';
-// import Lobster from './images/lobster.jpg';
-// import Starfish from './images/starfish.jpg';
-// import Dolphin from'./images/dolphin.jpg';
-
-
 
 const title = "";
 
